@@ -77,3 +77,16 @@ Learn ROS (kinetic) through the Kobuki base and the RaspberryPI
          rosrun kobuki_ftdi create_udev_rules
          
    Reinsert the Kobuki's USB cable. You should now find it show up at “/dev/kobuki”;
+
+
+## Run your robotic project
+
+1. Launch the main ROS node controlling the kobuki base:
+
+       roslaunch kobuki_node minimal.launch --screen
+       
+2. Launch in three different terminals (or screen shell sessions):
+
+       rosrun kobuki_project sense.py   
+       ronrun kobuki_project think.py
+       rosrun kobuki_project act.py
