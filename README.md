@@ -19,7 +19,7 @@ Learn ROS (kinetic) through the Kobuki base and the RaspberryPI
 
        sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-ke y 421C365BD9FF1F717815A3895523BAEEB01FA116
     
-If you experience issues connecting to the keyserver, you can try substituting hkp://pgp.mit.edu:80 or hkp://keyserver.ubuntu.com:80.
+   If you experience issues connecting to the keyserver, you can try substituting hkp://pgp.mit.edu:80 or hkp://keyserver.ubuntu.com:80.
 
 4. Make sure your package index is up-to-date
 
@@ -30,7 +30,7 @@ If you experience issues connecting to the keyserver, you can try substituting h
 
        sudo apt-get install ros-kinetic-desktop
 
-In this installation there are: ROS core, rqt, rviz and robot-generic libraries.
+   In this installation there are: ROS core, rqt, rviz and robot-generic libraries.
 
 6. Before you can use ROS, you will need to initialize with _rosdep_ , which enables you to easily install all the system dependencies that are needed to compile and run basic ROS core components.
 
