@@ -102,5 +102,5 @@ Learn ROS through the Kobuki mobile robotic base and RaspberryPI on board
 
        rosrun kobuki_project monitor.py
    
-   If ROS is properly configured, you can also use _rviz_ to visualize more complex robot data , even 3D scans.
+   If ROS is properly configured, you can also use [_rviz_](http://wiki.ros.org/rviz) to visualize more complex robot data , even 3D scans.
    
