@@ -1,5 +1,6 @@
 # ROS-kobuki-RPI
-Learn ROS (kinetic) through the Kobuki base and the RaspberryPI
+
+Learn ROS through the Kobuki mobile robotic base and RaspberryPI on board 
 
 ## Requirements
 
