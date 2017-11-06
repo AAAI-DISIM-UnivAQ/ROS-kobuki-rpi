@@ -3,7 +3,7 @@ Learn ROS (kinetic) through the Kobuki base and the RaspberryPI
 
 ## Requirements
 
-* Raspberry Pi 2 or 3
+* [Raspberry Pi](http://www.raspberrypi.org) 2 or 3
 * [Kobuki](http://kobuki.yujinrobot.com)
 * [Ubuntu Mate 16.04 (Raspberry Pi)](http://ubuntu-mate.org/download) 
 
