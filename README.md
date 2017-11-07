@@ -104,3 +104,4 @@ Learn ROS through the Kobuki mobile robotic base and RaspberryPI on board
    
    If ROS is properly configured, you can also use [_rviz_](http://wiki.ros.org/rviz) to visualize more complex robot data , even 3D scans.
    
+Then, if you want to startup you ROS processes as daemons at boot, follow this [tutorial](http://ariandy1.wordpress.com/2013/05/08/running-roscore-and-launching-ros-nodes-as-background-process/) from ariandyblog
