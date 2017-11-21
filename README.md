@@ -44,7 +44,8 @@ Learn ROS through the Kobuki mobile robotic base and RaspberryPI on board
     
 8. Add the ROS environment variables definitions to your bash session:
  
-       echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc source ~/.bashrc 
+       echo "source /opt/ros/kinetic/setup.bash" >> ~/.bashrc 
+       source ~/.bashrc 
        
 9. Up to now you have installed what you need to run the core ROS packages. To create and manage your own ROS workspaces, there are various tools and requirements that are distributed separately. Install this tool and other dependencies for building ROS packages:
 
