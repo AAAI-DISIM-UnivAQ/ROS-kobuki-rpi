@@ -29,7 +29,7 @@ Learn ROS through the Kobuki mobile robotic base and RaspberryPI on board
 5. Make sure your package index is up-to-date
 
        sudo apt update
-       sudp apt upgrade
+       sudo apt upgrade
     
 6. There are many different libraries and tools in ROS. In our case, we use the _Desktop_ one:
 
