@@ -22,7 +22,7 @@ Learn ROS through the Kobuki mobile robotic base and RaspberryPI on board
     
 4. Setup the repository keys:
 
-       sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-ke y 421C365BD9FF1F717815A3895523BAEEB01FA116
+       sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 421C365BD9FF1F717815A3895523BAEEB01FA116
     
    If you experience issues connecting to the keyserver, you can try substituting hkp://pgp.mit.edu:80 or hkp://keyserver.ubuntu.com:80.
 
