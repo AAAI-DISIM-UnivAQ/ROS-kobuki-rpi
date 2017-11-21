@@ -48,7 +48,7 @@ Learn ROS through the Kobuki mobile robotic base and RaspberryPI on board
        
 9. Up to now you have installed what you need to run the core ROS packages. To create and manage your own ROS workspaces, there are various tools and requirements that are distributed separately. Install this tool and other dependencies for building ROS packages:
 
-       sudo apt install python-rosinstall python-rosinstall-generator python- wstool build-essential
+       sudo apt install python-rosinstall python-rosinstall-generator python-wstool build-essential
 
 10. Create and build a _catkin_ building workspace:
 
